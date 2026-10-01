@@ -1,5 +1,4 @@
 <?php
-// CAPA DE PERSISTENCIA: crea la conexión a la base de datos.
 
 class Conexion
 {
