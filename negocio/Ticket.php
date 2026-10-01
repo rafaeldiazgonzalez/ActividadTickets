@@ -1,5 +1,5 @@
 <?php
-// CAPA DE NEGOCIO: representa el Ticket y sus reglas.
+
 
 class Ticket
 {
