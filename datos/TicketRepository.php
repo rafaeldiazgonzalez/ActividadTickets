@@ -1,6 +1,4 @@
 <?php
-// CAPA DE PERSISTENCIA: único lugar donde se escribe SQL de tickets.
-
 require_once __DIR__ . '/Conexion.php';
 require_once __DIR__ . '/../negocio/Ticket.php';
 
